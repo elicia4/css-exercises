@@ -1,0 +1,18 @@
+.pink_bg {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  background-color: rgb(252, 190, 200);
+}
+
+#one_id {
+  color: blue;
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#another_id {
+  background-color: rgb(147, 252, 143);
+  font-weight: 700;
+}
